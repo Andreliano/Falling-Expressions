@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/Andreliano/Falling-Expressions/blob/ase-dev/assets/falling-expressions-back.png" alt="Falling-Expressions" width="500" height="400">
+  <img src="https://github.com/Andreliano/Falling-Expressions/blob/main/assets/falling-expressions-back.png" alt="Falling-Expressions" width="500" height="400">
   <br>
 </h1>
 
@@ -12,7 +12,7 @@
   </a>
 </p>
 
-https://github.com/Andreliano/Falling-Expressions/assets/114987273/d4152008-0239-4caa-a1d6-43edbfdbee3d
+https://github.com/Andreliano/Falling-Expressions/assets/114987273/d7c74d1b-49b5-4537-afe7-23850f3c5fe4
 
 <p align="center">
   <a href="#setup">Setup</a> | 
